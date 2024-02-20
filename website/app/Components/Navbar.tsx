@@ -257,5 +257,9 @@ const NAV_ITEMS: Array<NavItem> = [
     {
         label: 'portfolio&resume',
         href: '/portfolio'
+    },
+    {
+        label: 'contact me',
+        href: '/contact'
     }
 ]
