@@ -9,7 +9,8 @@ export default function Home() {
                     <h1 className='text-3xl text-center md:text-left'>a little bit about me...</h1>
                     <p className='mt-2 pl-3'>my name is mateja milicevic. I was born in Belgrade, Serbia.
                         I moved to US for education when I was 16.
-                        currently I am studying computational data science at Michigan State University.
+                        currently I am studying computational data science at Michigan State University. starting Fall `24 I am supposed to start
+                        my graduate studies as a Ph.D. candidate in Biosystems engineering.
                         I am supposed to graduate summer `24. in my free time I love watching football (soccer) and also playing
                         ping-pong.
                         I am a HUGE Real Madrid fan, hala madrid! but truly my two biggest passions are computers and travel.

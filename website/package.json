@@ -16,11 +16,13 @@
     "@react-pdf/renderer": "^3.3.8",
     "@supabase/auth-helpers-nextjs": "^0.9.0",
     "@supabase/supabase-js": "^2.39.7",
-    "framer-motion": "^11.0.5",
+    "clsx": "^2.1.0",
+    "framer-motion": "^11.0.8",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "react-pdf": "^7.7.0"
+    "react-pdf": "^7.7.0",
+    "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
     "@types/node": "^20",
