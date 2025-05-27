@@ -251,15 +251,11 @@ const NAV_ITEMS: Array<NavItem> = [
         href : '/research'
     },
     {
-        label: 'blog',
+        label: 'cooking blog',
         href : '/blog'
     },
     {
-        label: 'portfolio&resume',
+        label: 'projects',
         href: '/portfolio'
-    },
-    {
-        label: 'contact me',
-        href: '/contact'
     }
 ]
