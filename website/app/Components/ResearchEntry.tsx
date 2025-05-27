@@ -7,18 +7,19 @@ interface ResearchEntryProps {
     projects : Dict
 }
 const ResearchEntry : React.FC<ResearchEntryProps> = ({title, projects}) =>{
-    console.log(projects);
     let projects_ = [];
+    let text_id = 0;
     for (let project in projects) {
         let project_ =
             <>
             <h3 className={'font-extrabold'}>{project}</h3>
-            <p className={'pl-3'}>
+            <p id={`research-entry-text-${text_id}`} className={'pl-3'}>
                 {projects[project]}
             </p>
             </>
 
         projects_.push(project_)
+        text_id++;
     }
 
     return (

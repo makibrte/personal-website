@@ -9,6 +9,9 @@ import {DesktopNav} from "@/app/Components/Navbar";
 export const metadata: Metadata = {
   title: "mateja milicevic",
   description: "hi",
+  icons: {
+    icon: []
+  }
 };
 
 export default function RootLayout({
