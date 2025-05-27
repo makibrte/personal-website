@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ["latin"] });
 import {DesktopNav} from "@/app/Components/Navbar";
 
 export const metadata: Metadata = {
-  title: "mateja's signals into the void",
-  description: "for those reading, welcome! but should you not be working?",
+  title: "mateja milicevic",
+  description: "hi",
 };
 
 export default function RootLayout({
